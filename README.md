@@ -20,8 +20,8 @@ This project classifies food images using:
 
 | Model | Accuracy |
 |---------|---------|
-| CNN | XX% |
-| MobileNetV2 | XX% |
+| CNN | 87% |
+| MobileNetV2 | 97X% |
 
 ## Installation
 
